@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f6772ce-d74a-4562-8271-9f962eedd60b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/charts/bar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/charts/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/charts/pie.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/charts/theme.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common-icon/common-icon.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common-icon/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/common.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/count-to/count-to.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/count-to/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/count-to/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cropper/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cropper/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cropper/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/drag-drawer/drag-drawer-trigger.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/drag-drawer/drag-drawer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/drag-drawer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/drag-drawer/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/drag-drawer/mixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/drag-list/drag-list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/drag-list/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/editor/editor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/editor/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/info-card/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/info-card/infor-card.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/components/user/user.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/components/user/user.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/main.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/markdown/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/markdown/markdown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/parent-view/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/parent-view/parent-view.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/paste-editor/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/paste-editor/paste-editor.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/paste-editor/paste-editor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/paste-editor/plugins/placeholder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/split-pane/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/split-pane/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/split-pane/split.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/split-pane/trigger.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/tree-select/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/tree-select/tree-select-tree.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/tree-select/tree-select.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locale/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/locale/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/routers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/routers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/module/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/module/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/module/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/module/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/argu-page/params.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/argu-page/query.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/components/count-to/count-to.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/components/cropper/cropper.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/components/drag-drawer/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/components/drag-list/drag-list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/components/editor/editor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/components/markdown/markdown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/components/org-tree/components/org-view.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/components/org-tree/components/zoom-controller.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/components/org-tree/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/components/org-tree/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/components/split-pane/split-pane.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/components/tree-select/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/components/tree-table/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/directive/directive.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/excel/common.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/excel/export-excel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/excel/upload-excel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/i18n/i18n-page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/join-page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/multilevel/level-2-1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/multilevel/level-2-2/level-2-2-1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/multilevel/level-2-2/level-2-2-2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/multilevel/level-2-3.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/update/update-paste.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/update/update-table.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/mock/index.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1aWx4No3Cb3YlEJXzEgPZfSAtgo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f6772ce-d74a-4562-8271-9f962eedd60b" name="Default Changelist" comment="" />
+      <created>1586864958532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586864958532</updated>
+      <workItem from="1586864959767" duration="596000" />
+      <workItem from="1587433900466" duration="967000" />
+      <workItem from="1588214847316" duration="7825000" />
+      <workItem from="1588305360940" duration="3469000" />
+      <workItem from="1588335926474" duration="51000" />
+      <workItem from="1588341548498" duration="23000" />
+      <workItem from="1588558639894" duration="1168000" />
+      <workItem from="1588560129726" duration="2779000" />
+      <workItem from="1588838632088" duration="363000" />
+      <workItem from="1588919614827" duration="3166000" />
+      <workItem from="1589362436006" duration="134000" />
+      <workItem from="1589426592952" duration="1429000" />
+      <workItem from="1589445824037" duration="632000" />
+      <workItem from="1589512829360" duration="196000" />
+      <workItem from="1589513753192" duration="655000" />
+      <workItem from="1589530594868" duration="2622000" />
+      <workItem from="1589560959916" duration="176000" />
+      <workItem from="1589773253631" duration="139000" />
+      <workItem from="1589773601537" duration="737000" />
+      <workItem from="1590135566725" duration="382000" />
+      <workItem from="1590245677085" duration="190000" />
+      <workItem from="1590397537577" duration="790000" />
+      <workItem from="1590741381196" duration="214000" />
+      <workItem from="1591768189369" duration="3865000" />
+      <workItem from="1591948112820" duration="4727000" />
+      <workItem from="1592897647584" duration="7000" />
+      <workItem from="1592967234886" duration="13162000" />
+      <workItem from="1593062684929" duration="11820000" />
+      <workItem from="1593222287344" duration="186000" />
+      <workItem from="1593314054788" duration="34980000" />
+      <workItem from="1593573639071" duration="29993000" />
+      <workItem from="1594001786116" duration="530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592967374480">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/-141.-900.1600.900/0.0.1280.800@0.0.1280.800" timestamp="1592967374480" />
+    <state x="351" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593063538403">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="351" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800/-160.-900.1600.900@0.0.1280.800" timestamp="1588921036195" />
+    <state x="351" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1593063538403" />
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593661776431">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-141.-900.1600.900/0.0.1280.800@0.0.1280.800" timestamp="1593661776431" />
+    <state width="1259" height="175" key="GridCell.Tab.0.bottom" timestamp="1586914342368">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state width="1259" height="175" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1586914342368" />
+    <state width="1259" height="175" key="GridCell.Tab.0.center" timestamp="1586914342366">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state width="1259" height="175" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1586914342366" />
+    <state width="1259" height="175" key="GridCell.Tab.0.left" timestamp="1586914342362">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state width="1259" height="175" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1586914342362" />
+    <state width="1259" height="175" key="GridCell.Tab.0.right" timestamp="1586914342367">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state width="1259" height="175" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1586914342367" />
+    <state x="141" y="39" key="SettingsEditor" timestamp="1593089940348">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1593089940348" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1593503241468">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/-141.-900.1600.900/0.0.1280.800@0.0.1280.800" timestamp="1593503241468" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1588234200036" />
+  </component>
+</project>
